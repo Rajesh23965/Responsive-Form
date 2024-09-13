@@ -64,4 +64,10 @@ const handleSubmit = (e) => {
 Screenshot
 
 ![Full](https://github.com/user-attachments/assets/ea1b89ea-52a5-4ffb-adc6-736166493f8b)
-![FirstPic](https://github.com/user-attachments/assets/b503caf3-1a1a-4359-a1db-89054d791bab)![LastPic](https://github.com/user-attachments/assets/9917cb7f-860a-43a8-8b0f-141eaf6b61af)452f-860f-9f4551d84560)
+
+![FirstPic](https://github.com/user-attachments/assets/fdf2be9d-7c5c-4da9-9ee3-c15ac71d6722)
+![SecondPic](https://github.com/user-attachments/assets/bdca72f3-4ab7-46cb-a9f1-b2b623dcf9c4)
+
+![LastPic](https://github.com/user-attachments/assets/91c6da48-f78b-4775-9570-b8b22b5aa808)
+
+
