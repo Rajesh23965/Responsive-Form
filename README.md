@@ -63,9 +63,5 @@ const handleSubmit = (e) => {
 
 Screenshot
 
-
-
-![FirstPic](https://github.com/user-attachments/assets/5e2a2313-87ac-47e5-874b-75b3e822bdbc)
-![Full](https://github.com/user-attachments/assets/d69caff1-3237-44cf-8707-220866560f53)
-![LastPic](https://github.com/user-attachments/assets/48b69aee-70d5-452a-9968-57cb3e0212c9)
-![SecondPic](https://github.com/user-attachments/assets/7136eaaf-a8f3-429c-87f8-eac122bd5711)
+![Full](https://github.com/user-attachments/assets/ea1b89ea-52a5-4ffb-adc6-736166493f8b)
+![FirstPic](https://github.com/user-attachments/assets/b503caf3-1a1a-4359-a1db-89054d791bab)![LastPic](https://github.com/user-attachments/assets/9917cb7f-860a-43a8-8b0f-141eaf6b61af)452f-860f-9f4551d84560)
