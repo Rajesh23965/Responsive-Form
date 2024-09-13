@@ -67,3 +67,5 @@ Screenshot
 
 ![FirstPic](https://github.com/user-attachments/assets/5e2a2313-87ac-47e5-874b-75b3e822bdbc)
 ![Full](https://github.com/user-attachments/assets/d69caff1-3237-44cf-8707-220866560f53)
+![LastPic](https://github.com/user-attachments/assets/48b69aee-70d5-452a-9968-57cb3e0212c9)
+![SecondPic](https://github.com/user-attachments/assets/7136eaaf-a8f3-429c-87f8-eac122bd5711)
